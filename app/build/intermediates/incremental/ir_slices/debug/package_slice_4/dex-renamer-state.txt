@@ -1,0 +1,4 @@
+#Wed Jul 31 16:14:14 SGT 2019
+base.0=C\:\\Users\\kitye\\Downloads\\android-advanced-starter-apps\\android-advanced-starter-apps-master\\WalkMyAndroid-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
